@@ -1,7 +1,7 @@
 morihuston
 ==========
 
-This is a website redesign for <a href="morihuston.com">morihuston.com</a>. Here are some working mockups:
+This is a website redesign for <a href="morihuston.com">morihuston.com</a>. Here are some mockups (still waiting for sign-off):
 
 <h3>Home Page</h3>
 
